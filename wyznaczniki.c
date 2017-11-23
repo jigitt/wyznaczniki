@@ -36,6 +36,6 @@ int main(){
 		x = Wx/W;
 		y = Wy/W;
 		
-		printf("x= %lf, y=%lf", x, y);
+		printf("x=%lf\ny=%lf\n", x, y);
 	return 0;
 }
